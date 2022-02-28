@@ -1,0 +1,30 @@
+.tabbtngrp {
+    display: flex;
+    flex-wrap: wrap;
+    border-bottom: 1px solid #F1F1F4;
+    box-sizing: content-box;
+}
+
+.tabbtn {
+    cursor: pointer;
+    font: inherit;
+    border: none;
+    color: #556789;
+    background-color: transparent;
+    padding: 1rem 2rem;   
+    font-size: 1.5rem;
+    line-height: 1.5rem;
+    font-weight: 400; 
+    font-family: Roboto;
+   
+}
+
+.tabbtn.selected {
+    font-weight: 500; 
+    color: #83A515;
+    border-bottom: 6px solid #83A515;
+    padding-bottom: calc(1rem - 5px);
+    bottom: -1px;
+    position: relative;
+    padding-top: calc(1rem - 1px);
+}

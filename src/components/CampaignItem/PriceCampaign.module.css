@@ -1,0 +1,88 @@
+.campaignInfo {
+    display: flex;
+    align-items: flex-end;
+}
+
+
+.campaignName {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #2B416C; 
+    margin-bottom: 10px;
+} 
+
+.campaignRegion {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    color: #9CA2B7;
+
+}
+
+.campaignImage {
+    width: auto;
+    height: auto;
+    margin-right: 10px; 
+    filter: drop-shadow(0px 2px 15px rgba(0, 0, 0, 0.151415));
+}
+
+.heading {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 32px;
+    color: #2B416C;
+}
+
+.priceContainer {
+    display: flex;
+}
+
+.priceType {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #7788A3;
+} 
+
+.priceAmt {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: right;
+
+    color: #556789;
+    margin-left: auto;
+}
+
+.closeButton {
+
+    cursor: pointer;
+    font: inherit;
+    color: #181B34;
+    background-color: transparent;
+    padding: 10px;   
+    font-size: 1rem;
+    line-height: 19px;
+    font-weight: bold; 
+    font-family: Roboto;
+    border: 2px solid #181B34;
+    text-align: center;
+    margin-top: 20px;       
+}
+
+.closeButtonContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

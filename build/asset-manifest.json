@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.135d3baf.chunk.css",
+    "main.js": "/static/js/main.b1a93086.chunk.js",
+    "main.js.map": "/static/js/main.b1a93086.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.67920b2e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.67920b2e.js.map",
+    "static/js/2.ea44a5ef.chunk.js": "/static/js/2.ea44a5ef.chunk.js",
+    "static/js/2.ea44a5ef.chunk.js.map": "/static/js/2.ea44a5ef.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.135d3baf.chunk.css.map": "/static/css/main.135d3baf.chunk.css.map",
+    "static/js/2.ea44a5ef.chunk.js.LICENSE.txt": "/static/js/2.ea44a5ef.chunk.js.LICENSE.txt",
+    "static/media/calendar.a0489425.svg": "/static/media/calendar.a0489425.svg",
+    "static/media/file.bb5c065d.svg": "/static/media/file.bb5c065d.svg",
+    "static/media/price.9e9bdbdb.svg": "/static/media/price.9e9bdbdb.svg",
+    "static/media/report.5cc7cb59.svg": "/static/media/report.5cc7cb59.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67920b2e.js",
+    "static/js/2.ea44a5ef.chunk.js",
+    "static/css/main.135d3baf.chunk.css",
+    "static/js/main.b1a93086.chunk.js"
+  ]
+}

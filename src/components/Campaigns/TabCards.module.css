@@ -1,0 +1,37 @@
+.headers {
+    height: 3rem;
+    background-color: #F1F1F4;
+}
+.headers p {
+    color: #556789;
+    font-size: 1rem;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+
+    text-transform: uppercase;
+    display: inline;
+}
+
+.header-widths {
+    padding: 0px 20px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+
+.header-widths .date {
+    width: 15%;
+}
+.header-widths .campaign {
+    width: 35%;
+}
+.header-widths .view {
+    width: 15%;
+}
+.header-widths .actions {
+    width: 35%;
+}

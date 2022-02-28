@@ -1,0 +1,85 @@
+.campaign-item {
+    height: 70px;
+    border-bottom: 1px solid #ECECEC;
+}
+
+.absdate {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #2B416C;
+    margin: 0px;
+}
+
+.reldate {
+    font-family: Roboto;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #7788A3;
+    margin: 0px;
+}
+
+.campaign {
+    display: flex;
+    align-items: center;
+}
+
+.campaignImg {
+    width:40px;
+    height: 40px;
+    margin-right: 5px;
+}
+.campaignImg img {
+    max-width: 100%;
+    max-height: 100%;
+}
+.campaignName {
+    margin: 0px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #556789;
+}
+
+.campaignRegion {
+    font-family: Roboto;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #9CA2B7;
+    margin: auto;
+}
+
+.action {
+    cursor: pointer;
+    display: flex;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #7788A3;
+    margin: 0px;
+    align-items: center;
+}
+
+.action img {
+    margin-right: 5px;
+    width: 24px;
+    height: 24px;
+}
+
+.actions {
+    display: flex;
+    justify-content: space-between;
+}
+
